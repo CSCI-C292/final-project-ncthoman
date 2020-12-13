@@ -1,0 +1,2144 @@
+fileFormatVersion: 2
+guid: e979a681eaf2b5641b080f9908ad5b6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1229543765363048620
+    second: parallax-mountain-mountains_0
+  - first:
+      213: -5185300737110911652
+    second: parallax-mountain-mountains_1
+  - first:
+      213: 7998255668533780663
+    second: parallax-mountain-mountains_2
+  - first:
+      213: 8409463246492406041
+    second: parallax-mountain-mountains_3
+  - first:
+      213: 94530658159704048
+    second: parallax-mountain-mountains_4
+  - first:
+      213: 4235657670406046990
+    second: parallax-mountain-mountains_5
+  - first:
+      213: 5587250056176384096
+    second: parallax-mountain-mountains_6
+  - first:
+      213: 7204645462956320351
+    second: parallax-mountain-mountains_7
+  - first:
+      213: -7597657955489963723
+    second: parallax-mountain-mountains_8
+  - first:
+      213: -5238293305458720887
+    second: parallax-mountain-mountains_9
+  - first:
+      213: 6038289938558153501
+    second: parallax-mountain-mountains_10
+  - first:
+      213: 215783989347098610
+    second: parallax-mountain-mountains_11
+  - first:
+      213: 7398147986541150945
+    second: parallax-mountain-mountains_12
+  - first:
+      213: -3988778492958682403
+    second: parallax-mountain-mountains_13
+  - first:
+      213: -8154006969876940321
+    second: parallax-mountain-mountains_14
+  - first:
+      213: 4376895065079709171
+    second: parallax-mountain-mountains_15
+  - first:
+      213: -6932856395099113260
+    second: parallax-mountain-mountains_16
+  - first:
+      213: -8627302078285692749
+    second: parallax-mountain-mountains_17
+  - first:
+      213: -518660644302013322
+    second: parallax-mountain-mountains_18
+  - first:
+      213: -6869330589179229088
+    second: parallax-mountain-mountains_19
+  - first:
+      213: -3380142635150012302
+    second: parallax-mountain-mountains_20
+  - first:
+      213: 8167991894768405295
+    second: parallax-mountain-mountains_21
+  - first:
+      213: 1098108795239254922
+    second: parallax-mountain-mountains_22
+  - first:
+      213: -3853658978618278050
+    second: parallax-mountain-mountains_23
+  - first:
+      213: -6739882443292014179
+    second: parallax-mountain-mountains_24
+  - first:
+      213: -5820424407509760271
+    second: parallax-mountain-mountains_25
+  - first:
+      213: -6878328580519567686
+    second: parallax-mountain-mountains_26
+  - first:
+      213: 1546419824516324400
+    second: parallax-mountain-mountains_27
+  - first:
+      213: 2783597345005185292
+    second: parallax-mountain-mountains_28
+  - first:
+      213: -1498386935883103169
+    second: parallax-mountain-mountains_29
+  - first:
+      213: 880101225087941089
+    second: parallax-mountain-mountains_30
+  - first:
+      213: 6813040401287043345
+    second: parallax-mountain-mountains_31
+  - first:
+      213: -3081037299516629533
+    second: parallax-mountain-mountains_32
+  - first:
+      213: 7136681514646129922
+    second: parallax-mountain-mountains_33
+  - first:
+      213: 2644442599057953234
+    second: parallax-mountain-mountains_34
+  - first:
+      213: -5647363792641118112
+    second: parallax-mountain-mountains_35
+  - first:
+      213: -2607464704054746599
+    second: parallax-mountain-mountains_36
+  - first:
+      213: 1937982863783023775
+    second: parallax-mountain-mountains_37
+  - first:
+      213: 5892683959690417234
+    second: parallax-mountain-mountains_38
+  - first:
+      213: -2821950004219929591
+    second: parallax-mountain-mountains_39
+  - first:
+      213: -4233470376118503619
+    second: parallax-mountain-mountains_40
+  - first:
+      213: 400673252002956860
+    second: parallax-mountain-mountains_41
+  - first:
+      213: -5100733518480245289
+    second: parallax-mountain-mountains_42
+  - first:
+      213: 6476966128422831087
+    second: parallax-mountain-mountains_43
+  - first:
+      213: -4781715098522292576
+    second: parallax-mountain-mountains_44
+  - first:
+      213: 7994470928675262667
+    second: parallax-mountain-mountains_45
+  - first:
+      213: 5829671760032412212
+    second: parallax-mountain-mountains_46
+  - first:
+      213: -5786492952388762678
+    second: parallax-mountain-mountains_47
+  - first:
+      213: 86326497711189514
+    second: parallax-mountain-mountains_48
+  - first:
+      213: -5143880637661412768
+    second: parallax-mountain-mountains_49
+  - first:
+      213: 7341415272315698229
+    second: parallax-mountain-mountains_50
+  - first:
+      213: 8330557090563508602
+    second: parallax-mountain-mountains_51
+  - first:
+      213: -627830107001225536
+    second: parallax-mountain-mountains_52
+  - first:
+      213: -5682183643040887073
+    second: parallax-mountain-mountains_53
+  - first:
+      213: 4808395019329300220
+    second: parallax-mountain-mountains_54
+  - first:
+      213: 3126808637639700716
+    second: parallax-mountain-mountains_55
+  - first:
+      213: 6326369796252115983
+    second: parallax-mountain-mountains_56
+  - first:
+      213: 3888555004699252493
+    second: parallax-mountain-mountains_57
+  - first:
+      213: 4214000324026398852
+    second: parallax-mountain-mountains_58
+  - first:
+      213: -5800989715560092860
+    second: parallax-mountain-mountains_59
+  - first:
+      213: 982350041713806098
+    second: parallax-mountain-mountains_60
+  - first:
+      213: 7094331527326926820
+    second: parallax-mountain-mountains_61
+  - first:
+      213: -3748457133650903972
+    second: parallax-mountain-mountains_62
+  - first:
+      213: 4388494345874980285
+    second: parallax-mountain-mountains_63
+  - first:
+      213: -3747578298309719969
+    second: parallax-mountain-mountains_64
+  - first:
+      213: -3694555763222664633
+    second: parallax-mountain-mountains_65
+  - first:
+      213: -2676933454576503202
+    second: parallax-mountain-mountains_66
+  - first:
+      213: 6939800488971926282
+    second: parallax-mountain-mountains_67
+  - first:
+      213: 9030953748713704602
+    second: parallax-mountain-mountains_68
+  - first:
+      213: -7409813231273239372
+    second: parallax-mountain-mountains_69
+  - first:
+      213: 3531200860343665866
+    second: parallax-mountain-mountains_70
+  - first:
+      213: 512946293122851642
+    second: parallax-mountain-mountains_71
+  - first:
+      213: -9007991196775393318
+    second: parallax-mountain-mountains_72
+  - first:
+      213: 2346174234008150344
+    second: parallax-mountain-mountains_73
+  - first:
+      213: 8804192856861500790
+    second: parallax-mountain-mountains_74
+  - first:
+      213: -6643900726340570557
+    second: parallax-mountain-mountains_75
+  - first:
+      213: 1390899341101705223
+    second: parallax-mountain-mountains_76
+  - first:
+      213: 4454978772736646246
+    second: parallax-mountain-mountains_77
+  - first:
+      213: -7068718291782534479
+    second: parallax-mountain-mountains_78
+  - first:
+      213: 1517798919265693279
+    second: parallax-mountain-mountains_79
+  - first:
+      213: 3066924024142350195
+    second: parallax-mountain-mountains_80
+  - first:
+      213: 8714489559352188438
+    second: parallax-mountain-mountains_81
+  - first:
+      213: 9039038734826352346
+    second: parallax-mountain-mountains_82
+  - first:
+      213: 1673301038864982116
+    second: parallax-mountain-mountains_83
+  - first:
+      213: -6843255292657099068
+    second: parallax-mountain-mountains_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3db5b578cfeee0800000000000000
+      internalID: -1229543765363048620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55dee6d37c1a08b0800000000000000
+      internalID: -5185300737110911652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e5b967238ffe60800000000000000
+      internalID: 7998255668533780663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91112e6744a64b470800000000000000
+      internalID: 8409463246492406041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f73efbf127df4100800000000000000
+      internalID: 94530658159704048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0506b2b53418ca30800000000000000
+      internalID: 4235657670406046990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068bca5d256e98d40800000000000000
+      internalID: 5587250056176384096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56242070ea0cf360800000000000000
+      internalID: 7204645462956320351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a916f752bf8690800000000000000
+      internalID: -7597657955489963723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 76
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f73da0ef7dd47b0800000000000000
+      internalID: -5238293305458720887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f296f4b05cc350800000000000000
+      internalID: 6038289938558153501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1041256e9ef200800000000000000
+      internalID: 215783989347098610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28e8d85608ba660800000000000000
+      internalID: 7398147986541150945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2da77181305a8c0800000000000000
+      internalID: -3988778492958682403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9fc68dcd527de80800000000000000
+      internalID: -8154006969876940321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7c353fdaddbc30800000000000000
+      internalID: 4376895065079709171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8725b27db89cf90800000000000000
+      internalID: -6932856395099113260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cacd187aa54880800000000000000
+      internalID: -8627302078285692749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c376954e85dc8f0800000000000000
+      internalID: -518660644302013322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4f33793c3ba0a0800000000000000
+      internalID: -6869330589179229088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701bbd9e225711d0800000000000000
+      internalID: -3380142635150012302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc0f73a598a5170800000000000000
+      internalID: 8167991894768405295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc7f891244d3f00800000000000000
+      internalID: 1098108795239254922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f76f5939d058ac0800000000000000
+      internalID: -3853658978618278050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9900b390a02772a0800000000000000
+      internalID: -6739882443292014179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60e5cd6d2b93fa0800000000000000
+      internalID: -5820424407509760271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed6b559944b80a0800000000000000
+      internalID: -6878328580519567686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdae913acf57510800000000000000
+      internalID: 1546419824516324400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0921c2890351a620800000000000000
+      internalID: 2783597345005185292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340a964509a43be0800000000000000
+      internalID: -1498386935883103169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b0c7b66fb63c00800000000000000
+      internalID: 880101225087941089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119591fd528cc8e50800000000000000
+      internalID: 6813040401287043345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed159e66e4fd35d0800000000000000
+      internalID: -3081037299516629533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_33
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d449b96069a0360800000000000000
+      internalID: 7136681514646129922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 55
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d192c17882f2b420800000000000000
+      internalID: 2644442599057953234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06039363d8880a1b0800000000000000
+      internalID: -5647363792641118112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a276aaac60dbd0800000000000000
+      internalID: -2607464704054746599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d490952915ea10800000000000000
+      internalID: 1937982863783023775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545dfe27d407c150800000000000000
+      internalID: 5892683959690417234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1f882c6b66d8d0800000000000000
+      internalID: -2821950004219929591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3731507f11bf35c0800000000000000
+      internalID: -4233470376118503619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3603a8233a7f8500800000000000000
+      internalID: 400673252002956860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7e09c3ed8639b0800000000000000
+      internalID: -5100733518480245289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe341ea906ec2e950800000000000000
+      internalID: 6476966128422831087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee477d37fe3adb0800000000000000
+      internalID: -4781715098522292576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc050eef3f012fe60800000000000000
+      internalID: 7994470928675262667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432bbdd249727e050800000000000000
+      internalID: 5829671760032412212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30195615f32bfa0800000000000000
+      internalID: -5786492952388762678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e67c60e71b23100800000000000000
+      internalID: 86326497711189514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628e2140d34d98b0800000000000000
+      internalID: -5143880637661412768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c310f2b42f1e560800000000000000
+      internalID: 7341415272315698229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79462469851c9370800000000000000
+      internalID: 8330557090563508602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce75e418df7947f0800000000000000
+      internalID: -627830107001225536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde43080514d421b0800000000000000
+      internalID: -5682183643040887073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf661ea4bc9dab240800000000000000
+      internalID: 4808395019329300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0332fa3e7a46b20800000000000000
+      internalID: 3126808637639700716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_56
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042e57afc7cbc750800000000000000
+      internalID: 6326369796252115983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079aa0ac2ce6f530800000000000000
+      internalID: 3888555004699252493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48879fcc7f22b7a30800000000000000
+      internalID: 4214000324026398852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 34
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba852b69ebe7fa0800000000000000
+      internalID: -5800989715560092860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0171882202ad00800000000000000
+      internalID: 982350041713806098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70d2dcfe0247260800000000000000
+      internalID: 7094331527326926820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c75fcd81ecafbc0800000000000000
+      internalID: -3748457133650903972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd30b83b5017ec30800000000000000
+      internalID: 4388494345874980285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584949a46dedfbc0800000000000000
+      internalID: -3747578298309719969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aad32ab1d4abcc0800000000000000
+      internalID: -3694555763222664633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_66
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bb90c43f99dad0800000000000000
+      internalID: -2676933454576503202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf04da6cf1f4060800000000000000
+      internalID: 6939800488971926282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c001f1694645d70800000000000000
+      internalID: 9030953748713704602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc18f1002e0b2990800000000000000
+      internalID: -7409813231273239372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4865f2978510130800000000000000
+      internalID: 3531200860343665866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e0769fe95e1700800000000000000
+      internalID: 512946293122851642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75b50abbf2df280800000000000000
+      internalID: -9007991196775393318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ea3709094f8020800000000000000
+      internalID: 2346174234008150344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e247b1c6ce2a70800000000000000
+      internalID: 8804192856861500790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b2838d7f1cc3a0800000000000000
+      internalID: -6643900726340570557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70821b8d4977d4310800000000000000
+      internalID: 1390899341101705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9fde179343dd30800000000000000
+      internalID: 4454978772736646246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_78
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bafef05a2ed6ed90800000000000000
+      internalID: -7068718291782534479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_79
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ead4f431e401510800000000000000
+      internalID: 1517798919265693279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cd149627ef8a20800000000000000
+      internalID: 3066924024142350195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_81
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9908351610f870800000000000000
+      internalID: 8714489559352188438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2254a6dd117d70800000000000000
+      internalID: 9039038734826352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_83
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e6d7ed62c83710800000000000000
+      internalID: 1673301038864982116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-mountain-mountains_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9cd5819fd701a0800000000000000
+      internalID: -6843255292657099068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
